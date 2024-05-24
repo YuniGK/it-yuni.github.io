@@ -8,7 +8,7 @@
 
 
 ### 터미널 
-    - https://jekyllrb.com/
+       [참고]                         - https://jekyllrb.com/
                                      -- gem install bundler 
                                      -- gem install jekyll bundler
         jekyll myblog 폴더에 설치       -- jekyll new myblog 
